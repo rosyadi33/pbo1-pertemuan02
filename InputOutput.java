@@ -1,7 +1,7 @@
 impor java.util.Scanner;
 
 public class InputOutput{
- Public static void main(String [] args){
+ public static void main(String [] args){
    Scanner scanner = new Scanner(System.in);
     String nama;
 	System.out.print("Masukkan nama anda: ");
